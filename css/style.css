@@ -578,6 +578,9 @@ margin-bottom: 50px;
 .footer-list-link{
     display: flex;
 }
+.footer-social-list-link{
+    margin-left: 70px;
+}
 .footer-link-logo{
     fill: #FFFFFF;
     width: 20px;
